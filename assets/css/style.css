@@ -4721,3 +4721,8 @@ div.jp-type-playlist div.jp-playlist li.jp-playlist-current .jp-playlist-item:be
     visibility:inherit !important;
     opacity: 1 !important;
     }
+
+.block-green{
+	background: #172601;
+	color: white;
+}
