@@ -3453,7 +3453,7 @@ header.sticky .logo > h2 {
 /* ABOUT US */
 
 .about-us > h2 {
-	color: #91865C;
+	color: #8C703B;
 	font-size: 44px;
 	text-transform: capitalize;
 	font-weight: 600;
@@ -3479,7 +3479,7 @@ header.sticky .logo > h2 {
 	margin-bottom: 24px;
 }
 .about-us p {
-	color: #fff;
+	color: #91865C;
 	font-size: 18px;
 	line-height: 36px;
 	font-weight: 500;
