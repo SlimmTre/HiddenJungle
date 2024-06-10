@@ -1291,7 +1291,7 @@ a.jp-playlist-item.jp-playlist-current {
 	line-height: 38px !important;
 	text-align: center;
 	border-radius: 50% !important;
-	background:#274001 !important;
+	background:#678C30 !important;
 	display: inline-block;
 	font-size: inherit !important;
 }
@@ -1415,7 +1415,7 @@ a.jp-playlist-item.jp-playlist-current {
 	border-radius: 30px;
 }
 .bt-btns li a.apple {
-	background-color: #274001;
+	background-color: #678C30;
 	color: #fff;
 	border-color: transparent;
 }
@@ -1426,7 +1426,7 @@ a.jp-playlist-item.jp-playlist-current {
 	margin-right: 5px;
 }
 .bt-btns li a.spotify:hover {
-	background-color: #274001;
+	background-color: #678C30;
 	border-color: transparent;
 	color: #fff;
 }
@@ -3288,7 +3288,7 @@ header.sticky .logo > h2 {
 	color: #ffffff;
 	font-size: 15px;
 	font-weight: 700;
-	background:linear-gradient(to left, #274001, #172601);
+	background:linear-gradient(to left, #678C30, #172601);
 	height: 52px;
 	line-height: 52px;
 	border-radius: 30px;
@@ -3309,7 +3309,7 @@ header.sticky .logo > h2 {
 	line-height: 50px;
 }
 .btn-lnk.v2:hover {
-	background:linear-gradient(to left, #274001, #172601);
+	background:linear-gradient(to left, #678C30, #172601);
 	border-color: transparent;
 }
 
@@ -3416,7 +3416,7 @@ header.sticky .logo > h2 {
 	top: 0;
 	left: 0;
 	width: 100%;
-	background:linear-gradient(to left, #274001, #172601);
+	background:linear-gradient(to left, #678C30, #172601);
 	height: 100%;
 	z-index: -1;
 	transition: all 0.6s ease;
@@ -3426,7 +3426,7 @@ header.sticky .logo > h2 {
 	background:#fff;
 }
 .theme-btn:hover {
-	color: #274001;
+	color: #678C30;
 }
 .theme-btn2 {
 	display: inline-block;
@@ -3468,7 +3468,7 @@ header.sticky .logo > h2 {
 	left: 0;
 	width: 87px;
 	height: 14px;
-	background:linear-gradient(to left, #274001, #172601);
+	background:linear-gradient(to left, #678C30, #172601);
 }
 .about-us > span {
 	display: block;
@@ -3563,7 +3563,7 @@ header.sticky .logo > h2 {
 	left: 50%;
 	width: 87px;
 	height: 14px;
-	background:linear-gradient(to left, #274001, #172601);
+	background:linear-gradient(to left, #678C30, #172601);
 	transform: translateX(-50%);
 }
 .title-sec p {
@@ -3664,7 +3664,7 @@ header.sticky .logo > h2 {
 	max-width: 100%;
 }
 .partner-logo:hover {
-	background:linear-gradient(to left, #274001, #172601);
+	background:linear-gradient(to left, #678C30, #172601);
 	border-color: transparent;
 }
 
@@ -4351,7 +4351,7 @@ div.jp-type-playlist div.jp-playlist li.jp-playlist-current .jp-playlist-item:be
 .page-link:focus, 
 .page-link:hover,
 .page-link.active{
-	background-color: #274001;
+	background-color: #678C30;
 	color: #fff;
 }
 
@@ -4435,7 +4435,7 @@ div.jp-type-playlist div.jp-playlist li.jp-playlist-current .jp-playlist-item:be
 	margin-bottom: 42px;
 }
 .contact-form form button {
-	color: #274001;
+	color: #678C30;
 	font-size: 14px;
 	font-weight: 700;
 	text-transform: uppercase;
@@ -4456,7 +4456,7 @@ div.jp-type-playlist div.jp-playlist li.jp-playlist-current .jp-playlist-item:be
     left: -1px;
     width: calc(100% + 2px);
     height: calc(100% + 3px);
-	background:linear-gradient(to left, #274001, #172601);
+	background:linear-gradient(to left, #678C30, #172601);
 	color: #fff;
 	border:0;
 	z-index: -1;
@@ -4519,7 +4519,7 @@ div.jp-type-playlist div.jp-playlist li.jp-playlist-current .jp-playlist-item:be
 	justify-content: center;
 	align-items: center;
 	flex-wrap: wrap;
-	background:linear-gradient(to top, #274001, #172601);
+	background:linear-gradient(to top, #678C30, #172601);
 	border-radius: 5px 0 0 5px;
 	text-align: center;
 }
@@ -4619,7 +4619,7 @@ div.jp-type-playlist div.jp-playlist li.jp-playlist-current .jp-playlist-item:be
 	left: 0;
 	width: 100%;
 	height: 100%;
-	background:linear-gradient(to left, #274001, #172601);
+	background:linear-gradient(to left, #678C30, #172601);
 	z-index: -1;
 	opacity: 0;
 	visibility: hidden;
