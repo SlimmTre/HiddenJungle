@@ -1291,7 +1291,7 @@ a.jp-playlist-item.jp-playlist-current {
 	line-height: 38px !important;
 	text-align: center;
 	border-radius: 50% !important;
-	background:#f8386b !important;
+	background:#274001 !important;
 	display: inline-block;
 	font-size: inherit !important;
 }
@@ -1415,7 +1415,7 @@ a.jp-playlist-item.jp-playlist-current {
 	border-radius: 30px;
 }
 .bt-btns li a.apple {
-	background-color: #f8386b;
+	background-color: #274001;
 	color: #fff;
 	border-color: transparent;
 }
@@ -1426,7 +1426,7 @@ a.jp-playlist-item.jp-playlist-current {
 	margin-right: 5px;
 }
 .bt-btns li a.spotify:hover {
-	background-color: #f8386b;
+	background-color: #274001;
 	border-color: transparent;
 	color: #fff;
 }
@@ -3288,7 +3288,7 @@ header.sticky .logo > h2 {
 	color: #ffffff;
 	font-size: 15px;
 	font-weight: 700;
-	background:linear-gradient(to left, #f8386b, #bd04db);
+	background:linear-gradient(to left, #274001, #172601);
 	height: 52px;
 	line-height: 52px;
 	border-radius: 30px;
@@ -3309,7 +3309,7 @@ header.sticky .logo > h2 {
 	line-height: 50px;
 }
 .btn-lnk.v2:hover {
-	background:linear-gradient(to left, #f8386b, #bd04db);
+	background:linear-gradient(to left, #274001, #172601);
 	border-color: transparent;
 }
 
@@ -3416,7 +3416,7 @@ header.sticky .logo > h2 {
 	top: 0;
 	left: 0;
 	width: 100%;
-	background:linear-gradient(to left, #f8386b, #bd04db);
+	background:linear-gradient(to left, #274001, #172601);
 	height: 100%;
 	z-index: -1;
 	transition: all 0.6s ease;
@@ -3426,7 +3426,7 @@ header.sticky .logo > h2 {
 	background:#fff;
 }
 .theme-btn:hover {
-	color: #f8386b;
+	color: #274001;
 }
 .theme-btn2 {
 	display: inline-block;
@@ -3468,7 +3468,7 @@ header.sticky .logo > h2 {
 	left: 0;
 	width: 87px;
 	height: 14px;
-	background:linear-gradient(to left, #f8386b, #bd04db);
+	background:linear-gradient(to left, #274001, #172601);
 }
 .about-us > span {
 	display: block;
@@ -3563,7 +3563,7 @@ header.sticky .logo > h2 {
 	left: 50%;
 	width: 87px;
 	height: 14px;
-	background:linear-gradient(to left, #f8386b, #bd04db);
+	background:linear-gradient(to left, #274001, #172601);
 	transform: translateX(-50%);
 }
 .title-sec p {
@@ -3664,7 +3664,7 @@ header.sticky .logo > h2 {
 	max-width: 100%;
 }
 .partner-logo:hover {
-	background:linear-gradient(to left, #f8386b, #bd04db);
+	background:linear-gradient(to left, #274001, #172601);
 	border-color: transparent;
 }
 
@@ -3697,7 +3697,7 @@ header.sticky .logo > h2 {
 	right: -3px;
 	width: 2px;
 	height: calc(100% - 6px);
-	background-color: #bd04db;
+	background-color: #172601;
 	transform: translateY(-50%);
 }
 
@@ -3749,7 +3749,7 @@ header.sticky .logo > h2 {
 	right: 0;
 	color: #ffffff;
 	font-size: 19px;
-	background:linear-gradient(to right, #bd04db, #ff0066);
+	background:linear-gradient(to right, #172601, #ff0066);
 	padding: 0 55px;
 	border-radius: 0 50px 50px 0;
 	border:0;
@@ -4351,7 +4351,7 @@ div.jp-type-playlist div.jp-playlist li.jp-playlist-current .jp-playlist-item:be
 .page-link:focus, 
 .page-link:hover,
 .page-link.active{
-	background-color: #f8386b;
+	background-color: #274001;
 	color: #fff;
 }
 
@@ -4435,7 +4435,7 @@ div.jp-type-playlist div.jp-playlist li.jp-playlist-current .jp-playlist-item:be
 	margin-bottom: 42px;
 }
 .contact-form form button {
-	color: #f8386b;
+	color: #274001;
 	font-size: 14px;
 	font-weight: 700;
 	text-transform: uppercase;
@@ -4456,7 +4456,7 @@ div.jp-type-playlist div.jp-playlist li.jp-playlist-current .jp-playlist-item:be
     left: -1px;
     width: calc(100% + 2px);
     height: calc(100% + 3px);
-	background:linear-gradient(to left, #f8386b, #bd04db);
+	background:linear-gradient(to left, #274001, #172601);
 	color: #fff;
 	border:0;
 	z-index: -1;
@@ -4519,7 +4519,7 @@ div.jp-type-playlist div.jp-playlist li.jp-playlist-current .jp-playlist-item:be
 	justify-content: center;
 	align-items: center;
 	flex-wrap: wrap;
-	background:linear-gradient(to top, #f8386b, #bd04db);
+	background:linear-gradient(to top, #274001, #172601);
 	border-radius: 5px 0 0 5px;
 	text-align: center;
 }
@@ -4552,7 +4552,7 @@ div.jp-type-playlist div.jp-playlist li.jp-playlist-current .jp-playlist-item:be
 }
 .show-card-info > span {
 	display: block;
-	color: #bd04db;
+	color: #172601;
 	font-size: 16px;
 	font-family: 'IBM Plex Sans', sans-serif;
 	font-weight: 500;
@@ -4596,7 +4596,7 @@ div.jp-type-playlist div.jp-playlist li.jp-playlist-current .jp-playlist-item:be
 	margin-top: -2px;
 }
 .show-location-info li span.time {
-	color: #bd04db;
+	color: #172601;
 }
 .buy-ticket {
 	margin-left: 115px;
@@ -4619,7 +4619,7 @@ div.jp-type-playlist div.jp-playlist li.jp-playlist-current .jp-playlist-item:be
 	left: 0;
 	width: 100%;
 	height: 100%;
-	background:linear-gradient(to left, #f8386b, #bd04db);
+	background:linear-gradient(to left, #274001, #172601);
 	z-index: -1;
 	opacity: 0;
 	visibility: hidden;
