@@ -1825,16 +1825,16 @@ header.sticky {
 	left: 0;
 	width: 100%;
 	z-index: 999999;
-	background-color: #fff;
+	background-color: #172601;
 	box-shadow: 0 0 10px rgba(0,0,0,0.10);
 	padding-top: 0;
 	padding: 15px 0;
 }
 header.sticky nav > ul > li > a {
-	color: #000;
+	color: #8C703B;
 } 
 header.sticky .social-links.hd-v li a {
-	color: #000;
+	color: #8C703B;
 }
 .dark-logo {
 	display: none;
