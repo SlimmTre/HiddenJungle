@@ -1836,6 +1836,15 @@ header.sticky nav > ul > li > a {
 header.sticky .social-links.hd-v li a {
 	color: #8C703B;
 }
+.logo-dark{
+	display: none;
+}
+header.sticky .logo-light{
+	display: none;
+}
+header.sticky .logo-dark{
+	display: flex;
+}
 .dark-logo {
 	display: none;
 }
