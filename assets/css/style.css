@@ -111,6 +111,7 @@ img {
 	vertical-align: middle;
 	height: auto;
 	display: inline-block;
+	max-width: 100%;
 }
 h1,
 h2,
