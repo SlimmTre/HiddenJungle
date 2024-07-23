@@ -4403,7 +4403,7 @@ div.jp-type-playlist div.jp-playlist li.jp-playlist-current .jp-playlist-item:be
 }
 .ct-links li > span {
 	display: block;
-	color: #f9305b;
+	color: #8C703B;
 	font-size: 14px;
 	font-weight: 500;
 	margin-bottom: 5px;
@@ -4759,4 +4759,7 @@ div.jp-type-playlist div.jp-playlist li.jp-playlist-current .jp-playlist-item:be
 }
 #contact a{
 	color: #8C703B;
+}
+#contact strong{
+	color: #91865C;
 }
