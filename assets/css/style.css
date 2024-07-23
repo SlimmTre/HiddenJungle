@@ -4745,3 +4745,11 @@ div.jp-type-playlist div.jp-playlist li.jp-playlist-current .jp-playlist-item:be
 #services h2{
 	color: #8C703B;
 }
+
+#content h2 {
+	color:#8C703B;
+}
+
+.contact-form > h3{
+	color: #8C703B;
+}
