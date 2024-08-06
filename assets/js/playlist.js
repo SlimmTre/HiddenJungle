@@ -32,7 +32,7 @@ $(document).ready(function(){
 			$(this).jPlayer("pauseOthers");
 		},
 		swfPath: "../js",
-		supplied: "m4a, oga",
+		supplied: "m4a, mp3",
 		cssSelectorAncestor: "#jp_container_1",
 		wmode: "window",
 		globalVolume: true,
@@ -47,41 +47,9 @@ $(document).ready(function(){
 		cssSelectorAncestor: "#jp_container_1"
 	}, [
 		{
-			title:"Cro Magnon Man",
-			mp3:"https://www.jplayer.org/audio/mp3/TSP-01-Cro_magnon_man.mp3",
-			oga:"https://www.jplayer.org/audio/ogg/TSP-01-Cro_magnon_man.ogg"
+			title:"Visions - Slimm Tre",
+			mp3:"assets/mp3/VisionsM4.mp3",
 		},
-		{
-			title:"Your Face",
-			mp3:"https://www.jplayer.org/audio/mp3/TSP-05-Your_face.mp3",
-			oga:"https://www.jplayer.org/audio/ogg/TSP-05-Your_face.ogg"
-		},
-		{
-			title:"Cyber Sonnet",
-			mp3:"https://www.jplayer.org/audio/mp3/TSP-07-Cybersonnet.mp3",
-			oga:"https://www.jplayer.org/audio/ogg/TSP-07-Cybersonnet.ogg"
-		},
-		{
-			title:"Tempered Song",
-			mp3:"https://www.jplayer.org/audio/mp3/Miaow-01-Tempered-song.mp3",
-			oga:"https://www.jplayer.org/audio/ogg/Miaow-01-Tempered-song.ogg"
-		},
-		{
-			title:"Hidden",
-			mp3:"https://www.jplayer.org/audio/mp3/Miaow-02-Hidden.mp3",
-			oga:"https://www.jplayer.org/audio/ogg/Miaow-02-Hidden.ogg"
-		},
-		{
-			title:"Lentement",
-			free:true,
-			mp3:"https://www.jplayer.org/audio/mp3/Miaow-03-Lentement.mp3",
-			oga:"https://www.jplayer.org/audio/ogg/Miaow-03-Lentement.ogg"
-		},
-		{
-			title:"Lismore",
-			mp3:"https://www.jplayer.org/audio/mp3/Miaow-04-Lismore.mp3",
-			oga:"https://www.jplayer.org/audio/ogg/Miaow-04-Lismore.ogg"
-		}		
 	], {
 		swfPath: "../../dist/jplayer",
 		supplied: "oga, mp3",
