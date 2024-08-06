@@ -4658,7 +4658,7 @@ div.jp-type-playlist div.jp-playlist li.jp-playlist-current .jp-playlist-item:be
 /* PRICE SECTION */
 
 .price-column {
-	background-color: #f3f4f9;
+	background-color: #91865C;
 	padding: 50px 15px;
 	text-align: center;
 	transition: all 0.3s ease;
@@ -4671,7 +4671,7 @@ div.jp-type-playlist div.jp-playlist li.jp-playlist-current .jp-playlist-item:be
     font-family: 'Roboto', sans-serif;
 }
 .price-column h2 {
-	color: #282525;
+	color: #172601;
 	font-size: 36px;
 	font-weight: 700;
     font-family: 'Roboto', sans-serif;
@@ -4718,7 +4718,7 @@ div.jp-type-playlist div.jp-playlist li.jp-playlist-current .jp-playlist-item:be
 	color: #fff;
 }
 .price-column:hover {
-	background-color: #678C30;
+	background-color: #172601;
 }
 
 .has-5-columns .col-lg-2 {
