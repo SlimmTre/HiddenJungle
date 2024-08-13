@@ -1205,9 +1205,9 @@ div#html5-image {
 }
 .jp-playlist li.jp-playlist-current:before {
 	content: '\f04c';
-	color: #172601;
+	color: #91865C;
 	font-size: 8px;
-	border-color: #172601;
+	border-color: #91865C;
 	padding-left: 0;
 }
 .jp-details, .jp-playlist {
