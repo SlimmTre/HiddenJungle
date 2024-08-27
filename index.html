@@ -22,6 +22,29 @@
     <!-- Modernizr -->
     <script src="assets/js/revolution/vendor/modernizr.js"></script>
 	<script src="https://www.google.com/recaptcha/api.js" async defer></script>
+	<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@emailjs/browser@4/dist/email.min.js"></script>
+    <script type="text/javascript">
+        (function() {
+            // https://dashboard.emailjs.com/admin/account
+            emailjs.init({
+              publicKey: "qXwvDUwlkhIZxrvse",
+            });
+        })();
+    </script>
+    <script type="text/javascript">
+        window.onload = function() {
+            document.getElementById('contact-form').addEventListener('submit', function(event) {
+                event.preventDefault();
+                // these IDs from the previous steps
+                emailjs.sendForm('service_4idbgg8', 'template_z76yd5r', this)
+                    .then(() => {
+                        console.log('SUCCESS!');
+                    }, (error) => {
+                        console.log('FAILED...', error);
+                    });
+            });
+        }
+    </script>
 </head>
 
 
@@ -540,7 +563,8 @@
 					<div class="col-lg-6 col-md-6">
 						<div class="contact-form wow fadeInRight">
 							<h3>Send Message</h3>
-							<form action="mail.php" method="post">
+							<form id="contact-form" action="mail.php" method="post">
+								<input type="hidden" name="contact_number" value="697483">
 								<input type="text" name="name" placeholder="Your Name">
 								<input type="text" name="email" placeholder="Your E-mail">
 								<textarea name="message" placeholder="Your Message"></textarea>
