@@ -39,6 +39,8 @@
                 emailjs.sendForm('service_1cxrlwm', 'template_z76yd5r', this)
                     .then(() => {
                         console.log('SUCCESS!');
+						document.getElementById("contact-form").reset();
+						grecaptcha.reset();
                     }, (error) => {
                         console.log('FAILED...', error);
                     });
