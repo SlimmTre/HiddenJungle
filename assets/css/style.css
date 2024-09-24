@@ -3366,6 +3366,8 @@ header.sticky .logo > h2 {
 .jl-show > img {
 	width: 100%;
 	border-radius: 8px;
+	height: 476px;
+	object-fit: cover;
 }
 
 .show-st {
@@ -3382,7 +3384,7 @@ header.sticky .logo > h2 {
 	letter-spacing: 2px;
 }
 .show-st span {
-	color: #f1ee1a;
+	color: #91865C;
 	display: block;
 }
 
